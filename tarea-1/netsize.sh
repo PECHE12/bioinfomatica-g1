@@ -30,3 +30,7 @@ Tutorial de conceptos básicos  para aprender el uso de  Python.
 
 ## Mini-tutorial de introducción a Python.
 Aqui esta el link<https://www.youtube.com/watch?v=DAdRO6ByBoU> para personas que quieran empezar desde cero.
+
+Espero que te  haya gustado  :heart_eyes: 
+**  El hombre que es un maestro de la paciencia es un maestro de todo lo demás**
+:bug:  
