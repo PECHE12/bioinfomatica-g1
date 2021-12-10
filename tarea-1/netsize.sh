@@ -26,3 +26,4 @@ Tutorial de conceptos básicos  para aprender el uso de  Python.
 %   A continuación, después de unos segundos de espera, comenzará el proceso de instalación de Python.
 %   En la ventana Setup was successful, una vez que ha concluido el proceso de instalación hacer clic en el botón [Close]. Desde esta ventana es posible acceder a un tutorial online de Python, a la documentación oficial del lenguaje y a información con las novedades de la presente versión.
 
+:bamboo: :santa: :gift: :full_moon_with_face:  :panda_face:
