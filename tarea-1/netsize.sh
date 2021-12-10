@@ -14,3 +14,5 @@ Tutorial de conceptos básicos  para aprender el uso de  Python.
 *  Manipulado de fecha y hora.
 *  Tratar con el sistema de archivos.
  
+##  Imagen
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
