@@ -1,1 +1,2 @@
-#  TAREA-2-BIOINFORMÁTICA  
+#  Ejercicio-parte2  [Advanced]
+Este parte fue especificada en README.md
