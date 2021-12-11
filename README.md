@@ -6,13 +6,13 @@ Saavedra and Stouffer (2013) studied several plant pollinator networks. These ca
 
 The data of Saavedra and Stouffer (2013) can be found an the directory CSB/unix/data/Saavedra2013.
 
-1. Write a script that takes one of these files and determines the number of rows (pollinators) and columns (plants).
+#  Write a script that takes one of these files and determines the number of rows (pollinators) and columns (plants).
 Note that columns are separated by spaces and that there is a space at the end of each line. Your script should return.
 
 $ bash netsize.sh ../data/Saavedra2013/n1.txt Filename: ../data/Saavedra2013/n1.txt Number of rows: 97 Number of columns: 80
 
 
-2.[Advanced]
+#  [Advanced]
 Write a script that prints the numbers of rows and columns for each network:
 
 $ bash netsize_all.sh ../data/Saavedra2013/n10.txt 14 20 ../data/Saavedra2013/n11.txt 270 91 ../data/Saavedra2013/n12.txt 7 72 ../data/Saavedra2013/n13.txt 61 17 ...
