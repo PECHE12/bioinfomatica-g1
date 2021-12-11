@@ -1,4 +1,4 @@
-#  Ejercicio-parte2  [Advanced]
+#  Ejercicio-parte2  [Advanced] :bug:
 Este parte fue especificada en README.md
 -  Se elige la misma ruta:
    cd  Documents/CSB/unix
