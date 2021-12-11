@@ -11,3 +11,5 @@ cat n1.txt
 #RESULTADOS FINALES
 -Número de columnas 80
 - Número de filas 97 n1.txt
+
+###Fin de la ejecución 
