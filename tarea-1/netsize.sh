@@ -13,3 +13,5 @@ cat n1.txt
 - Número de filas 97 n1.txt
 
 ###Fin de la ejecución 
+
+:bug: :skull_and_crossbones:	:alien: :ghost:
