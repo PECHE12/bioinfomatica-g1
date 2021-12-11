@@ -9,3 +9,5 @@ Este parte fue especificada en README.md
   Se utilizo for,do,done
   for file in $(ls *.txt); do wc -l $file; head -n1 $file | grep -o " " | wc -l;
   
+  # Para finalizar esta tarea se obtiene los resultados en la parte de netsize_all.txt con archivos de n59.txt
+
